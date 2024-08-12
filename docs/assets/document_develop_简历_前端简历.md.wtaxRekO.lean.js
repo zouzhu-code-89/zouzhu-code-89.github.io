@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.CSJbQl-u.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"document/develop/简历/前端简历.md","filePath":"document/develop/简历/前端简历.md"}'),a={name:"document/develop/简历/前端简历.md"};function c(n,r,d,s,_,p){return o(),t("div")}const l=e(a,[["render",c]]);export{i as __pageData,l as default};
