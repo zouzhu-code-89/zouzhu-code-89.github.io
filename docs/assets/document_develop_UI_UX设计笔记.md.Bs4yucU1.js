@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.yMis5STR.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"document/develop/UI/UX设计笔记.md","filePath":"document/develop/UI/UX设计笔记.md"}'),a={name:"document/develop/UI/UX设计笔记.md"};function c(n,r,d,s,_,p){return o(),t("div")}const l=e(a,[["render",c]]);export{i as __pageData,l as default};
