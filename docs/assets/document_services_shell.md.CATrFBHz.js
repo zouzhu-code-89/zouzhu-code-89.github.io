@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s}from"./chunks/framework.Dc_8yqSo.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"document/services/shell.md","filePath":"document/services/shell.md"}'),c={name:"document/services/shell.md"};function r(a,o,n,l,d,i){return s(),t("div")}const _=e(c,[["render",r]]);export{p as __pageData,_ as default};

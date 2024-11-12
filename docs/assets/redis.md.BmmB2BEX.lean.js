@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,a3 as p}from"./chunks/framework.CTzLCFAo.js";const g=JSON.parse('{"title":"Redis","description":"","frontmatter":{},"headers":[],"relativePath":"redis.md","filePath":"redis.md"}'),e={name:"redis.md"},i=p("",102),l=[i];function t(c,d,h,r,o,k){return n(),a("div",null,l)}const y=s(e,[["render",t]]);export{g as __pageData,y as default};

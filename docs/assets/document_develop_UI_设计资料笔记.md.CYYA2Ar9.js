@@ -1,1 +1,0 @@
-import{_ as e,c as t,o}from"./chunks/framework.D49uMtVv.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"document/develop/UI/设计资料笔记.md","filePath":"document/develop/UI/设计资料笔记.md"}'),a={name:"document/develop/UI/设计资料笔记.md"};function c(n,r,_,d,s,p){return o(),t("div")}const l=e(a,[["render",c]]);export{i as __pageData,l as default};
