@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.CgzesH6k.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"document/english/语法.md","filePath":"document/english/语法.md"}'),a={name:"document/english/语法.md"};function o(s,c,r,d,i,_){return n(),t("div")}const l=e(a,[["render",o]]);export{p as __pageData,l as default};
