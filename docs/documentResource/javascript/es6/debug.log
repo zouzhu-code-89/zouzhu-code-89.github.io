@@ -1,0 +1,12 @@
+[1102/164309.765:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1102/164309.881:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1102/164310.492:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: utility
+[1102/164509.891:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1102/195100.514:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1102/195105.522:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1102/215700.337:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1102/215705.350:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1102/215710.367:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1102/215715.390:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1102/215720.411:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1102/215725.421:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
